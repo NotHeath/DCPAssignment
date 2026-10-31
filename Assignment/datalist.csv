@@ -1,4 +1,10 @@
-Day,Date,People (Count),On Phone,Reading,Nothing
-Tuesday,20/10/2026,22,17,2,3
-Wednesday,21/10/2026,35,28,5,2
-Thursday,22/10/2026,79,49,13,17
+Day,Date,Time (Rounded to Hour),Transport,People (Count),On Phone,Reading,Nothing or Sleeping
+Tuesday,10/20/2026,10:00 AM,Train,22,17,2,3
+Wednesday,10/21/2026,9:00 AM,Train,35,28,5,2
+Thursday,10/22/2026,8:00 AM,Train,79,49,13,17
+Friday,10/23/2026,8:00 PM,Bus,33,21,12,0
+Saturday,10/24/2026,1:00 AM,Plane,178,40,38,100
+Sunday,10/25/2026,1:00 PM,London Underground,109,96,4,9
+Monday,10/26/2026,2:00 AM,Plane,160,90,10,60
+Wednesday,10/28/2026,7:00 PM,Train,9,9,0,0
+Monday,11/2/2026,12:00 PM,Train,,,,
